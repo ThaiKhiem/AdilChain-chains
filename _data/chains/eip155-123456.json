@@ -1,0 +1,23 @@
+{
+  "name": "Adil Chain devnet",
+  "chain": "ADIL devnet",
+  "icon": "adil",
+  "rpc": ["https://devnet.adilchain-rpc.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Devnet ADIL",
+    "symbol": "ADIL",
+    "decimals": 18
+  },
+  "infoURL": "https://adilchain.io",
+  "shortName": "dadil",
+  "chainId": 123456,
+  "networkId": 123456,
+  "explorers": [
+    {
+      "name": "Devnet Adil Scan",
+      "url": "https://devnet.adilchain-scan.io",
+      "standard": "EIP3091"
+    }
+  ]
+}
